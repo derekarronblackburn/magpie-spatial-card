@@ -31,7 +31,7 @@
 (function () {
     'use strict';
 
-    var CARD_VERSION = '1.21.0';
+    var CARD_VERSION = '1.21.1';
 
     var THREE_VERSION = '0.128.0';
     var THREE_SCRIPTS = [
