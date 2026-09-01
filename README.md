@@ -2,6 +2,8 @@
 
 A Home Assistant Lovelace card that renders your [MagpieStash](https://magpiestash.app) home inventory map in 3D or as a flat 2D floor plan - with your Home Assistant entities placed in real rooms, lit by live state, straight from your dashboard.
 
+![Magpie Spatial Card rendering a 3D home map inside a Home Assistant dashboard](docs/demo.gif)
+
 - **3D and 2D views** of your actual floor plan: orbit, pan, and zoom, with a live toggle on the card.
 - **Live entity states** with no polling: markers glow the instant a light, switch, or sensor changes, fed by the `hass` object your dashboard already holds.
 - **Click an entity** to open Home Assistant's own more-info dialog.
